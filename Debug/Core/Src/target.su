@@ -1,0 +1,3 @@
+../Core/Src/target.c:5:13:drawFilledSquareLCD	32	static
+../Core/Src/target.c:53:13:isWithingRange	24	static
+../Core/Src/target.c:63:22:new	48	static
